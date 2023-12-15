@@ -1,0 +1,1 @@
+palabra = input("Cual va a ser la palabra")
